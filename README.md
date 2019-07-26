@@ -1,3 +1,3 @@
-<video src="/file/HELLO_WORLD.flv" controls="controls">
-下载用通道
+<video src="HELLO_WORLD.mp4" controls="controls">
+浏览器不支持
 </video>
