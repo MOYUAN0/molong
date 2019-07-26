@@ -1,3 +1,3 @@
-<video src="https://www.bilibili.com/video/av60757784" controls="controls">
+<video src="/file/HELLO_WORLD.flv" controls="controls">
 下载用通道
 </video>
